@@ -1,5 +1,3 @@
-# Prompt Regression Bench
-
 Offline harness for e-commerce product-description prompts. Runs each prompt version against the same product list, scores outputs for invented specs, length, and tone, and writes a comparison spreadsheet.
 
 ## Stack
@@ -34,3 +32,6 @@ python -m src.run_bench --prompt-version v2 --model mock-b
 - **accuracy**: fraction of output facts that match product fields; inventing missing fields lowers score
 - **length**: soft target band (chars)
 - **tone**: keyword cues for professional vs hype language
+def run_regression_matrix(variants: list, dataset_path: str):
+    # Compare prompt string versions across variants
+    pass
