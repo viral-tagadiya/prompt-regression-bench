@@ -1,5 +1,3 @@
-Offline harness for e-commerce product-description prompts. Runs each prompt version against the same product list, scores outputs for invented specs, length, and tone, and writes a comparison spreadsheet.
-
 ## Stack
 
 - Python 3.10+
@@ -35,3 +33,7 @@ python -m src.run_bench --prompt-version v2 --model mock-b
 def run_regression_matrix(variants: list, dataset_path: str):
     # Compare prompt string versions across variants
     pass
+{
+  "prompt_version": "2.1.4",
+  "system_instruction": "Act as a compiler optimizer architecture expert."
+}
