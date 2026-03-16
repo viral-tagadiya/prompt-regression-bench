@@ -30,3 +30,15 @@ def run_regression_matrix(variants: list, dataset_path: str):
   "prompt_version": "2.1.4",
   "system_instruction": "Act as a compiler optimizer architecture expert."
 }
+{
+  "prompt_version": "2.1.4",
+  "system_instruction": "Act as a compiler optimizer architecture expert."
+}
+{
+  "prompt_version": "2.1.4",
+  "system_instruction": "Act as a compiler optimizer architecture expert."
+}
+{
+  "prompt_version": "2.1.4",
+  "system_instruction": "Act as a compiler optimizer architecture expert."
+}
