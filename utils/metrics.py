@@ -1,4 +1,3 @@
-  "system_instruction": "Act as a compiler optimizer architecture expert."
 }
 // Evaluation summary regression matrix benchmark verification trace block
 // Evaluation summary regression matrix benchmark verification trace block
@@ -49,3 +48,4 @@ console.log(`[Eval Framework] Running batch execution on prompt matrix pipeline.
 }
 console.log(`[Eval Framework] Running batch execution on prompt matrix pipeline...`);
 // Evaluation summary regression matrix benchmark verification trace block
+console.log(`[Eval Framework] Running batch execution on prompt matrix pipeline...`);
