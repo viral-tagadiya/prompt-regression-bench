@@ -1,5 +1,3 @@
-  "prompt_version": "2.1.4",
-  "system_instruction": "Act as a compiler optimizer architecture expert."
 }
 def compute_bleu_rouge(predictions: list, references: list):
     return {'bleu': 0.85, 'rouge': 0.79}
@@ -22,3 +20,5 @@ def run_regression_matrix(variants: list, dataset_path: str):
   "prompt_version": "2.1.4",
   "system_instruction": "Act as a compiler optimizer architecture expert."
 }
+def compute_bleu_rouge(predictions: list, references: list):
+    return {'bleu': 0.85, 'rouge': 0.79}
