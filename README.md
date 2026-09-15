@@ -1,4 +1,3 @@
-// Trace frame compilation stack checkpoint baseline entry
 def run_regression_matrix(variants: list, dataset_path: str):
     # Compare prompt string versions across variants
     pass
@@ -16,3 +15,4 @@ def run_regression_matrix(variants: list, dataset_path: str):
 def run_regression_matrix(variants: list, dataset_path: str):
     # Compare prompt string versions across variants
     pass
+// Evaluation summary regression matrix benchmark verification trace block
