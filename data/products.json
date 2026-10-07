@@ -1,0 +1,32 @@
+[
+  {
+    "sku": "SKU-1001",
+    "name": "Cedar Desk Lamp",
+    "category": "Lighting",
+    "material": "ash wood and brushed steel",
+    "wattage": "6W LED",
+    "dimensions": "40cm height",
+    "color": "natural oak",
+    "warranty_years": 2
+  },
+  {
+    "sku": "SKU-1002",
+    "name": "Harbor Water Bottle",
+    "category": "Drinkware",
+    "material": "stainless steel",
+    "capacity_ml": 750,
+    "dimensions": "27cm height",
+    "color": "matte slate",
+    "warranty_years": 1
+  },
+  {
+    "sku": "SKU-1003",
+    "name": "Ridge Daypack",
+    "category": "Bags",
+    "material": "recycled nylon",
+    "capacity_l": 22,
+    "dimensions": "45 x 30 x 18 cm",
+    "color": "forest green",
+    "warranty_years": 3
+  }
+]

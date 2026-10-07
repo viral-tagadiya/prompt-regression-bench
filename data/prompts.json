@@ -1,0 +1,4 @@
+{
+  "v1": "Write a short product description for {name}. Mention material, size, and warranty. Do not invent specifications.",
+  "v2": "Write a factual product description for {name} ({category}). Only use these facts: material={material}; size={size}; color={color}; warranty={warranty_years} years. No marketing hype. No extra specs."
+}

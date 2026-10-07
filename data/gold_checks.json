@@ -1,0 +1,13 @@
+{
+  "forbidden_phrases": [
+    "lifetime warranty",
+    "waterproof",
+    "bluetooth",
+    "carbon fiber",
+    "military grade"
+  ],
+  "tone_bad": ["amazing", "incredible", "must-have", "best-ever", "unbelievable"],
+  "tone_good": ["durable", "practical", "designed", "suitable", "features"],
+  "length_min": 80,
+  "length_max": 320
+}
